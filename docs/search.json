@@ -18,7 +18,7 @@
     "href": "index.html#find-out-more",
     "title": "MUSA 550 Final Project: An Evaluation on Hong Kong Urban Resiliency to Urban Heat",
     "section": "Find out more",
-    "text": "Find out more\nThe code for this repository is hosted on our course’s GitHub page: https://github.com/MUSA-550-Fall-2023/quarto-website-template.\nWe covered the basics of getting started with Quarto and GitHub Pages in week 9. Take a look at the slides for lecture 9A to find out more."
+    "text": "Find out more\nThe code for this repository is hosted on our course’s GitHub page: https://github.com/Chling77/MUSA550_Quarto."
   },
   {
     "objectID": "analysis/5-HK-Temp-NDVI.html",
@@ -86,9 +86,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About me",
+    "title": "Group Member",
     "section": "",
-    "text": "Our group is dedicated to exploring the themes of climate change and urban resilience, with a particular emphasis on Hong Kong. This historically rich and prosperous harbor city, renowned as a global financial hub, is situated in Southern China. Our focus centers on understanding and addressing the unique environmental and urban challenges faced by this vibrant metropolis.\nGroup member:\nHang Zhao, Master of Environmental Studies, University of Pennsylvania George Chen, Master of Environmental Studies, University of Pennsylvania Ling Chen, Master of City Planning, University of Pennsylvania This site is our final project site showing several exploratory analysis, raster data processing, big data analysis, and clustering, which is part of the final project for MUSA 550, during fall 2023."
+    "text": "Our group is dedicated to exploring the themes of climate change and urban resilience, with a particular emphasis on Hong Kong. This historically rich and prosperous harbor city, renowned as a global financial hub, is situated in Southern China. Our focus centers on understanding and addressing the unique environmental and urban challenges faced by this vibrant metropolis.\nGroup member:\nHang Zhao, Master of Environmental Studies, University of Pennsylvania\nGeorge Chen, Master of Environmental Studies, University of Pennsylvania\nLing Chen, Master of City Planning, University of Pennsylvania\nThis site is our final project site showing several exploratory analysis, raster data processing, big data analysis, and clustering, which is part of the final project for MUSA 550, during fall 2023."
   },
   {
     "objectID": "analysis/2-Final-Project-Explore.html#available-dataset-sources",
