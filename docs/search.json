@@ -2,21 +2,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "MUSA 550 Final Project Template",
+    "title": "MUSA 550 Final Project: An Evaluation on Hong Kong Urban Resiliency to Urban Heat",
     "section": "",
-    "text": "We can create beautiful websites that describe complex technical analyses in Python using Quarto and deploy them online using GitHub Pages. This combination of tools is a really powerful way to create and share your work. This website is a demo that is meant to be used to create your own Quarto website for the final project in MUSA 550.\nQuarto is a relatively new tool, but is becoming popular quickly. It’s a successor to the Rmarkdown ecosystem that combines functionality into a single tool and also extends its computation power to other languages. Most importantly for us, Quarto supports executing Python code, allowing us to convert Jupyter notebooks to HTML and share them online.\n\n\n\n\n\n\nImportant\n\n\n\nThis template site, including the layout it uses, is just a suggested place to start! For your final project, you’re welcome (and encouraged) to make as many changes as you like to best fit your project."
+    "text": "Group final project for the University of Pennsylvania School of Design course, MUSA 550 Geospatial Data Science in Python.\nOur project, centered on enhancing urban resilience in Hong Kong, addresses the critical issues of climate change and the urban heat island effect through the innovative application of Python data science and geography. By leveraging a rich array of geospatial data, including raster images and extensive datasets from the Hong Kong Government and ESRI, we aim to create insightful visualizations that illuminate the complexities of these environmental challenges. This project stands at the forefront of technology and sustainability, employing advanced techniques like cluster analysis to dissect and understand the spatial patterns of heat distribution and environmental impacts within the urban fabric of Hong Kong."
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
-    "title": "MUSA 550 Final Project Template",
+    "title": "MUSA 550 Final Project: An Evaluation on Hong Kong Urban Resiliency to Urban Heat",
     "section": "",
-    "text": "We can create beautiful websites that describe complex technical analyses in Python using Quarto and deploy them online using GitHub Pages. This combination of tools is a really powerful way to create and share your work. This website is a demo that is meant to be used to create your own Quarto website for the final project in MUSA 550.\nQuarto is a relatively new tool, but is becoming popular quickly. It’s a successor to the Rmarkdown ecosystem that combines functionality into a single tool and also extends its computation power to other languages. Most importantly for us, Quarto supports executing Python code, allowing us to convert Jupyter notebooks to HTML and share them online.\n\n\n\n\n\n\nImportant\n\n\n\nThis template site, including the layout it uses, is just a suggested place to start! For your final project, you’re welcome (and encouraged) to make as many changes as you like to best fit your project."
+    "text": "Group final project for the University of Pennsylvania School of Design course, MUSA 550 Geospatial Data Science in Python.\nOur project, centered on enhancing urban resilience in Hong Kong, addresses the critical issues of climate change and the urban heat island effect through the innovative application of Python data science and geography. By leveraging a rich array of geospatial data, including raster images and extensive datasets from the Hong Kong Government and ESRI, we aim to create insightful visualizations that illuminate the complexities of these environmental challenges. This project stands at the forefront of technology and sustainability, employing advanced techniques like cluster analysis to dissect and understand the spatial patterns of heat distribution and environmental impacts within the urban fabric of Hong Kong."
   },
   {
     "objectID": "index.html#find-out-more",
     "href": "index.html#find-out-more",
-    "title": "MUSA 550 Final Project Template",
+    "title": "MUSA 550 Final Project: An Evaluation on Hong Kong Urban Resiliency to Urban Heat",
     "section": "Find out more",
     "text": "Find out more\nThe code for this repository is hosted on our course’s GitHub page: https://github.com/MUSA-550-Fall-2023/quarto-website-template.\nWe covered the basics of getting started with Quarto and GitHub Pages in week 9. Take a look at the slides for lecture 9A to find out more."
   },
@@ -88,7 +88,7 @@
     "href": "about.html",
     "title": "About me",
     "section": "",
-    "text": "On this about page, you might want to add more information about yourself, the project, or course. Any helpful context could go here!\nMy name is Nick Hand, the instructor for the course. You can find more information about me on my personal website.\nThis site is an example site showing how to use Quarto for the final project for MUSA 550, during fall 2023.\nAdipisicing proident minim non non dolor quis. Pariatur in ipsum aliquip magna. Qui ad aliqua nulla excepteur dolor nostrud quis nisi. Occaecat proident eiusmod in cupidatat. Elit qui laboris sit aliquip proident dolore. Officia commodo commodo in eiusmod aliqua sint cupidatat consectetur aliqua sint reprehenderit.\nOccaecat incididunt esse et elit adipisicing sit est cupidatat consequat. Incididunt exercitation amet dolor non sit anim veniam veniam sint velit. Labore irure reprehenderit ut esse. Minim quis commodo nisi voluptate."
+    "text": "Our group is dedicated to exploring the themes of climate change and urban resilience, with a particular emphasis on Hong Kong. This historically rich and prosperous harbor city, renowned as a global financial hub, is situated in Southern China. Our focus centers on understanding and addressing the unique environmental and urban challenges faced by this vibrant metropolis.\nGroup member:\nHang Zhao, Master of Environmental Studies, University of Pennsylvania George Chen, Master of Environmental Studies, University of Pennsylvania Ling Chen, Master of City Planning, University of Pennsylvania This site is our final project site showing several exploratory analysis, raster data processing, big data analysis, and clustering, which is part of the final project for MUSA 550, during fall 2023."
   },
   {
     "objectID": "analysis/2-Final-Project-Explore.html#available-dataset-sources",
