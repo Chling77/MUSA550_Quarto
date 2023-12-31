@@ -12,11 +12,7 @@ Our project, centered on enhancing urban resilience in Hong Kong, addresses the 
 
 ## Find out more
 
-The code for this repository is hosted on our course's GitHub page: [https://github.com/MUSA-550-Fall-2023/quarto-website-template](https://github.com/MUSA-550-Fall-2023/quarto-website-template).
-
-We covered the basics of getting started with Quarto and GitHub Pages in week 9. Take a look at
-[the slides for lecture 9A](https://musa-550-fall-2023.github.io/content/week-9/lecture-9A.html) to find out more.
-
+The code for this repository is hosted on our course's GitHub page: [https://github.com/Chling77/MUSA550_Quarto](https://github.com/Chling77/MUSA550_Quarto).
 
 
 

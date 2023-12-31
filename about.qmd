@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "Group Member"
 ---
 
 <!-- Use a grid -->
@@ -20,8 +20,11 @@ Our group is dedicated to exploring the themes of climate change and urban resil
 Group member:
 
 Hang Zhao, Master of Environmental Studies, University of Pennsylvania
+
 George Chen, Master of Environmental Studies, University of Pennsylvania
+
 Ling Chen, Master of City Planning, University of Pennsylvania
+
 This site is our final project site showing several exploratory analysis, raster data processing, big data analysis, and clustering, which is part of the final project for MUSA 550, during fall 2023.
 
 ::: 

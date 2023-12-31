@@ -15,19 +15,17 @@ website:
     left: "&copy; CC-Nick Hand, 2023"
 
   sidebar:
-    logo: "images/course-icon.png"
+    logo: "images/HK_Map.png"
     pinned: true
     align: center
     tools: 
       - icon: globe
-        href: https://nickhand.dev
-        text: "Personal Website"
+        href: https://musa-550-fall-2023.github.io/
+        text: "Course Website"
       - icon: github
-        href: https://github.com/MUSA-550-Fall-2023/
-        text: "MUSA 550 GitHub"
-      - icon: twitter
-        href: https://twitter.com/nicholashand
-        text: "Nick Hand Twitter"         
+        href: https://github.com/Chling77/MUSA550_Quarto
+        text: "Project GitHub"
+       
 
     style: "docked"
     search: true
